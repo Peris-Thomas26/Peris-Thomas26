@@ -16,7 +16,7 @@
 ## 💻 Tech Stack:
 
 ### Programming & Computational Languages:
-<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/7b6bd797-633f-4725-9f0f-d1c13ac692da" /> <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/ac9023be-ba60-4048-97bc-bf071e1738aa" /> <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/a1492660-a9c7-4f0a-af8a-a6576c312144" /> <img width="217" height="118" alt="image" src="https://github.com/user-attachments/assets/84df119c-126b-4211-a2e7-60507454a4e7" />
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/7b6bd797-633f-4725-9f0f-d1c13ac692da" /> <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/ac9023be-ba60-4048-97bc-bf071e1738aa" /> <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/a1492660-a9c7-4f0a-af8a-a6576c312144" /> <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/aa7ad764-c5b5-462c-9e8e-c30b1acbd08d" />
 
 
 
