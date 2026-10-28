@@ -16,7 +16,9 @@
 ## 💻 Tech Stack:
 
 ### Programming Languages:
-<img src="https://skillicons.dev" />
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/7b6bd797-633f-4725-9f0f-d1c13ac692da" /> <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/ac9023be-ba60-4048-97bc-bf071e1738aa" />
+
+
 
 ### Web & App Development:
 <img src="https://skillicons.dev" />
