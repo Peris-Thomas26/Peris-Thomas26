@@ -5,11 +5,11 @@
   <h1>Hi there! 👋</h1>
 </div>
 
-* **I'm Abraham** ✨
-* Here's a [link to my Portfolio](https://yourportfolio.com)...
+* **I'm Peris** ✨
 
-**E-mail:** [abrahamchandafa@gmail.com](mailto:abrahamchandafa@gmail.com) & [abrahamchandafa@connect.hku.hk](mailto:abrahamchandafa@connect.hku.hk)  
-**LinkedIn:** [Abraham Chandafa](https://linkedin.com)
+
+**E-mail:** ptlyimo@connect.ust.hk
+**LinkedIn:** https://www.linkedin.com/in/peris-lyimo-042a33289/
 
 ---
 
