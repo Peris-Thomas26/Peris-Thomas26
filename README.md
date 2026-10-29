@@ -35,7 +35,9 @@
 
 
 ### Tools & Cloud:
-<img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/22aaefa7-e62f-40fb-86fb-3c71e4c137a9" /> <img width="94" height="28" alt="image" src="https://github.com/user-attachments/assets/d2359eab-610b-47a0-b6d2-1bc6c3c4b587" /> <img width="100" height="28" alt="image" src="https://github.com/user-attachments/assets/5a47db3f-a786-41fa-a804-9418ea077a70" /> <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/6061b11f-f6d3-489c-8650-c57e0291d9a7" />
+<img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/22aaefa7-e62f-40fb-86fb-3c71e4c137a9" /> <img width="94" height="28" alt="image" src="https://github.com/user-attachments/assets/d2359eab-610b-47a0-b6d2-1bc6c3c4b587" /> <img width="100" height="28" alt="image" src="https://github.com/user-attachments/assets/5a47db3f-a786-41fa-a804-9418ea077a70" /> <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/6061b11f-f6d3-489c-8650-c57e0291d9a7" /> <img width="762" height="168" alt="excel_vba_badge_hires" src="https://github.com/user-attachments/assets/e486e7bf-5982-457d-bb65-00d537f76a42" /> <img width="762" height="168" alt="powerbi_badge_hires" src="https://github.com/user-attachments/assets/7e6ad7e9-0787-4a25-90f7-6d833635c416" />
+
+
 
 
 
