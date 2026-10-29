@@ -25,7 +25,7 @@
 
 
 ### Web & App Development:
-<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/2eff480f-0ab7-48de-99d0-4e71ea46b52e" /> <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/b9d27aa1-f90a-4a75-b89e-a1ece3d948b9" /> <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/c8d3fc9e-eb2e-497e-a202-daca5e4ad832" />
+<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/2eff480f-0ab7-48de-99d0-4e71ea46b52e" /> <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/b9d27aa1-f90a-4a75-b89e-a1ece3d948b9" /> 
 
 
 
