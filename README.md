@@ -16,7 +16,8 @@
 ## 💻 Tech Stack:
 
 ### Programming & Computational Languages:
-<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/7b6bd797-633f-4725-9f0f-d1c13ac692da" /> <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/a1492660-a9c7-4f0a-af8a-a6576c312144" /><img width="127" height="28" alt="wolfram_badge_hires" src="https://github.com/user-attachments/assets/cdb0da44-4706-4118-8b9e-c057c52e39c6" />
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/7b6bd797-633f-4725-9f0f-d1c13ac692da" /> <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/b62b211f-a002-4930-b72e-d077bb9a27af" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/a1492660-a9c7-4f0a-af8a-a6576c312144" /><img width="127" height="28" alt="wolfram_badge_hires" src="https://github.com/user-attachments/assets/cdb0da44-4706-4118-8b9e-c057c52e39c6" />
 
 
 
